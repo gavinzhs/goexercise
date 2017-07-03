@@ -5,7 +5,7 @@
   branch = "master"
   name = "github.com/gavinzhs/utils"
   packages = ["."]
-  revision = "1be71dec104ba62ebd56dfc96115709fe0671f5c"
+  revision = "f8ace9cde2096fc743291e721cac4d4d86d01c60"
 
 [solve-meta]
   analyzer-name = "dep"
